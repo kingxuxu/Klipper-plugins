@@ -4,4 +4,4 @@ Shake&Tune is a Klipper plugin from the [Klippain](https://github.com/Frix-x/kli
 
 Check out the **[detailed documentation here](./docs/README.md)**.
 
-![logo banner](./docs/banner.png)
+![logo banner](.klipper-shaketune/docs/banner.png)
