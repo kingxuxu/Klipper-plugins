@@ -14,7 +14,7 @@ Check out the **[detailed documentation here](./docs/README.md)**.
 
 Ok, sure, it's pretty cool to have the Voron logo on the StealthBurner light up. And, yeah, it's even cooler to have it change colors. But wouldn't it be *even cooler still* to have it do *this*?
 
-<img src="./Images/rainbow_logo.gif" width=400>
+<img src="Rainbow_Barf_Logo_LED/Images/rainbow_logo.gif" width=400>
 
 The Rainbow Barf Logo LED is a small PCB, approximately the size of a typical single 5050 WS2812 "Neopixel" PCB, but holding *eight* miniature protocol-compatible LEDs positioned to match the logo cutout on the StealthBurner.
 
